@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="first_page_text_editor_hint">Введите сообщение…</string>
+    <string name="first_page_button_text">Перейти на вторую страницу</string>
+    <string name="second_page_button_text">Поиск в google</string>
+</resources>

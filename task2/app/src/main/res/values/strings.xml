@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Поисковик</string>
+    <string name="default_fragment_text">Поисковик</string>
+    <string name="default_fragment_hint">Пользуетесь кнопками меню</string>
+
+    <string name="settings">Настройки</string>
+    <string name="search">Поиск</string>
+    <string name="exit">Выход</string>
+
+    <string name="google">Google</string>
+    <string name="bing">Bing</string>
+    <string name="yandex">Yandex</string>
+
+    <string name="search_hint">Введите поисковой запрос…</string>
+    <string name="button_search">ПОИСК</string>
+</resources>
